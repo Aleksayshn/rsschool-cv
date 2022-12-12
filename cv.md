@@ -40,7 +40,7 @@ Always try to look for positive sides in negative situations.
 
 ## Professional Experience:
 
-*2010-2021* - State Tax Service, Ukraine
+*2010-2021* - State Tax Service, Ukraine,
 Head of Information Security Sector
 
 ---
